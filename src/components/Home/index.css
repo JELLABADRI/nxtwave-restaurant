@@ -1,0 +1,17 @@
+.active-tab-item {
+  color: #ff6347;
+  border-bottom: 2px solid #ff6347;
+  font-weight: 600;
+}
+.dishes-list-container {
+  list-style-type: none;
+  padding: 25px;
+}
+.each-tab-item {
+  list-style-type: none;
+  flex-shrink: 0;
+  flex-grow: 1;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+}
